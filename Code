@@ -1,0 +1,1 @@
+Command to create ec2 (aws ec2 run-instances --image-id ami-0149b2da6ceec4bb0 --count 1 --instance-type t2.micro --key-name Wakkeypair --security-group-ids sg-02913d815b1fa182e --subnet-id subnet-0615285e8a1d5101d)
